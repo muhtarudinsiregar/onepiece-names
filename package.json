@@ -1,0 +1,25 @@
+{
+  "name": "onepiece-names",
+  "version": "1.0.0",
+  "description": "get one piece names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhtarudinsiregar/onepiece-names.git"
+  },
+  "keywords": [
+    "one-piece-names\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[\u001b[\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Conepiece-names"
+  ],
+  "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhtarudinsiregar/onepiece-names/issues"
+  },
+  "homepage": "https://github.com/muhtarudinsiregar/onepiece-names#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
