@@ -1,6 +1,6 @@
 {
   "name": "onepiece-names",
-  "version": "0.0.0-development",
+  "version": "0.0.0-semantically-released",
   "description": "get one piece names",
   "main": "src/index.js",
   "scripts": {
