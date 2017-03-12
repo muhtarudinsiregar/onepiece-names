@@ -1,14 +1,15 @@
 {
   "name": "onepiece-names",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "get one piece names",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha src/index.test.js -w"
+    "test": "mocha src/index.test.js -w",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhtarudinsiregar/onepiece-names.git"
+    "url": "https://github.com/muhtarudinsiregar/onepiece-names.git"
   },
   "keywords": [
     "one-piece-names\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[\u001b[\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Conepiece-names"
@@ -24,6 +25,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "mocha": "^3.2.0",
+    "semantic-release": "^6.3.2"
   }
 }
