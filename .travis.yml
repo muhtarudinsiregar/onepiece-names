@@ -1,5 +1,4 @@
 language: node_js
-install: travis_wait mvn install
 cache:
   directories:
     - node_modules
@@ -13,8 +12,6 @@ before_script:
   - npm prune
 script:
   - npm run test
-after_success:
-  - npm run semantic-release
 branches:
   except:
     - /^v\d+\.\d+\.\d+$/
